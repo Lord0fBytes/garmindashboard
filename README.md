@@ -1,6 +1,6 @@
-This will be the future home for my Garmin Dashboard site. //
-Hopefully this will allow people to log into their Garmin Connect account and create a pretty dashboard of information including the main focus which will be a heat map of activities //
-Caution to anyone wanting to use this: \\
+This will be the future home for my Garmin Dashboard site.  
+Hopefully this will allow people to log into their Garmin Connect account and create a pretty dashboard of information including the main focus which will be a heat map of activities  
+Caution to anyone wanting to use this:  
 Data that this application pulls will contain very personal data including, but not limited to:
   - GPS location data of activities
   - Device information (names and type)
